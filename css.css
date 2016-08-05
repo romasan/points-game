@@ -1,0 +1,16 @@
+* {
+	color : #000;
+}
+body {
+	margin   : 0px;
+	padding  : 0px;
+	overflow : hidden
+}
+.drug {
+	position : absolute;
+	top      : 0px;
+	left     : 0px;
+}
+#bar span {
+	color : inherit
+}
